@@ -61,23 +61,3 @@ Apasionado por el desarrollo de aplicaciones web modernas, automatización y sis
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarcoEsteban/MarcoEsteban/output/pacman-contribution-graph.svg">
 </picture>
 
-<h3> 🚀 Proyectos Destacados</h3>
-
-<div align="letf">
-
-<a href="https://github.com/MarcoEsteban/app-pharmaz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoEsteban&repo=app-pharmaz&theme=tokyonight" />
-</a>
-</div>
-
-<div align="letf">
-<a href="https://github.com/MarcoEsteban/linux-dotfiles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoEsteban&repo=linux-dotfiles&theme=tokyonight" />
-</a>
-</div>
-
-<div align="letf">
-<a href="https://github.com/MarcoEsteban/nextjs-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoEsteban&repo=nextjs-dashboard&theme=tokyonight" />
-</a>
-</div>
