@@ -1,0 +1,28 @@
+name: generate pacman graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: generate pacman graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MarcoEsteban
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-dark
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: push graph
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
