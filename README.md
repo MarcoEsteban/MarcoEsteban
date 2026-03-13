@@ -27,7 +27,7 @@ Full Stack Developer | Next.js | TypeScript | PostgreSQL | Linux
 Apasionado por el desarrollo de aplicaciones web modernas, automatización y sistemas Linux.
 </p>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -52,28 +52,32 @@ Apasionado por el desarrollo de aplicaciones web modernas, automatización y sis
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
-<br>
-###
-## 🚀 Proyectos Destacados
+<br><br><br><br>
 
-🔹 **Pharmacy Management System**  
-Sistema de punto de venta con control de inventario y roles.  
-Stack: Next.js, Prisma, PostgreSQL.
-
-🔹 **Linux Dotfiles**  
-Configuración personalizada de Linux con scripts y automatización.
-
-🔹 **Next.js Dashboard**  
-Panel administrativo moderno con TailwindCSS.
-
-🔹 **Automation Workflows**  
-Automatizaciones con n8n.
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcoEsteban/MarcoEsteban/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcoEsteban/MarcoEsteban/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarcoEsteban/MarcoEsteban/output/pacman-contribution-graph.svg">
 </picture>
-###
+
+<h3> 🚀 Proyectos Destacados</h3>
+
+<div align="letf">
+
+<a href="https://github.com/MarcoEsteban/app-pharmaz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoEsteban&repo=app-pharmaz&theme=tokyonight" />
+</a>
+</div>
+
+<div align="letf">
+<a href="https://github.com/MarcoEsteban/linux-dotfiles">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoEsteban&repo=linux-dotfiles&theme=tokyonight" />
+</a>
+</div>
+
+<div align="letf">
+<a href="https://github.com/MarcoEsteban/nextjs-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoEsteban&repo=nextjs-dashboard&theme=tokyonight" />
+</a>
+</div>
