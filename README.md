@@ -52,10 +52,22 @@ Apasionado por el desarrollo de aplicaciones web modernas, automatización y sis
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
-
-
+<br>
 ###
+## 🚀 Proyectos Destacados
 
+🔹 **Pharmacy Management System**  
+Sistema de punto de venta con control de inventario y roles.  
+Stack: Next.js, Prisma, PostgreSQL.
+
+🔹 **Linux Dotfiles**  
+Configuración personalizada de Linux con scripts y automatización.
+
+🔹 **Next.js Dashboard**  
+Panel administrativo moderno con TailwindCSS.
+
+🔹 **Automation Workflows**  
+Automatizaciones con n8n.
 
 ###
 
